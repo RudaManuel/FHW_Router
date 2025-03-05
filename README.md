@@ -7,6 +7,7 @@
 
 
 ### ⚖️ [Conclusiones](conclusiones.md)
+### 📑 [Referencias](referencias.md)
 ### ✍️ [Autor](autor.md)
 
 
