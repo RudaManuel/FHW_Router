@@ -1,5 +1,7 @@
 # FHW_Router
 
+![Router](/img/Router.jpeg)
+
 ### 1.[Introducción](definicion.md)
 ### 2.[Características principales](Caracteristicas.md)
 ### 3.[Tipos](tipos.md)
