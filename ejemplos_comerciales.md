@@ -11,4 +11,14 @@ El router TP-Link Archer AX53 es una excelente opción si buscas una conexión r
 
 Además, cuenta con un potente procesador de doble núcleo, que le permite manejar varias conexiones al mismo tiempo sin perder rendimiento. Esto significa que puedes tener varios dispositivos conectados (como teléfonos, computadoras y consolas) sin que la velocidad se vea afectada.
 
-<img src="img/ZTE.jpg" alt="TP-Link" width="500" height="500">
+<img src="img/ZTE.jpg" alt="ZTE" width="500" height="500">
+
+**_Punto de acceso Cisco Business 140AC 802.11ac 2×2_**
+
+Cisco Business ofrece herramientas de administración de redes tanto en web como en dispositivos móviles, lo que permite configurar todo en pocos minutos. Esto hace que la gestión de la red sea más sencilla y eficiente, ahorrando tiempo y recursos que pueden destinarse al crecimiento del negocio.
+
+Además, cuenta con seguridad integrada, incluyendo Cisco Umbrella, que ayuda a prevenir brechas de seguridad costosas y protege la privacidad de los datos.
+
+En resumen, es una solución confiable y fácil de usar que permite a las empresas enfocarse en lo realmente importante: crecer y ser más rentables. 🚀🔐
+
+<img src="img/Cisco_router.jpg" alt="Cisco_router" width="500" height="500">
