@@ -9,3 +9,6 @@ https://olin.es/es/blog/que-es-un-router/
 
 Tipos:
 https://www.promart.pe/blog/que-es-un-router
+
+Ejemplos Comerciales:
+https://revistabyte.es/actualidad-it/router-wifi/
