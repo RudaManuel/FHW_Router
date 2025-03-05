@@ -22,3 +22,15 @@ Además, cuenta con seguridad integrada, incluyendo Cisco Umbrella, que ayuda a 
 En resumen, es una solución confiable y fácil de usar que permite a las empresas enfocarse en lo realmente importante: crecer y ser más rentables. 🚀🔐
 
 <img src="img/Cisco_router.jpg" alt="Cisco_router" width="500" height="500">
+
+**_Xiaomi mi AIOT router AX3600_**
+
+Este router ofrece altas velocidades de Wi-Fi, alcanzando hasta 2402 Mbps en la banda de 5 GHz y 574 Mbps en la banda de 2.4 GHz. Esto permite una conexión rápida y estable, ideal para streaming, videojuegos en línea y descargas pesadas.
+
+Además, incorpora tecnologías avanzadas como OFDMA y MU-MIMO, que mejoran el rendimiento en entornos con muchos dispositivos conectados al mismo tiempo. Su potente chip Qualcomm de 6 núcleos (4 núcleos para la CPU y 2 para la NPU) garantiza un funcionamiento fluido, incluso cuando hay múltiples conexiones activas.
+
+Para una mejor cobertura, cuenta con 6 antenas externas y amplificadores de señal, asegurando que el Wi-Fi llegue a cada rincón de tu hogar.
+
+En resumen, este router es una excelente opción si buscas velocidad, estabilidad y una conexión potente en toda tu casa. 🚀📶
+
+<img src="img/XIAOMI.jpg" alt="Xiaomi" width="500" height="500">
