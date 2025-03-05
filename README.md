@@ -5,7 +5,7 @@
 ### 1.[Introducción](definicion.md)
 ### 2.[Características principales](Caracteristicas.md)
 ### 3.[Tipos](tipos.md)
-### 4.[Ejemplos comerciales](ejemplos_comerciales)
+### 4.[Ejemplos comerciales](ejemplos_comerciales.md)
 
 
 ### ⚖️ [Conclusiones](conclusiones.md)
