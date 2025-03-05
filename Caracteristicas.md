@@ -4,8 +4,11 @@
 📡 Funciones principales del router:
 
 ✅ Conecta la red doméstica a Internet.
+
 ✅ Permite que múltiples dispositivos compartan la misma conexión.
+
 ✅ Crea una red de área local (LAN) para la comunicación entre dispositivos.
+
 ✅ Proporciona seguridad con firewall y encriptación.
 
 🔄 Cómo funciona la conexión a Internet:
